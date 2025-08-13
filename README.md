@@ -15,7 +15,7 @@
 This repository contains **all the Python code** for the Udemy course:  
 **Deep Understanding of Large Language Models (LLMs): Architecture, Training, and Mechanisms**.
 
-> **Course URL:** (will be updated soon!)
+> **Course URL:** https://www.udemy.com/course/dullms_x/?couponCode=202508
 > *(90+ hours of intensive video lectures — theory, math, and code)*
 
 This course is a **comprehensive deep dive** into **AI large language models** — the kind of models that power ChatGPT, Claude, Gemini, and other cutting-edge systems.  
@@ -65,4 +65,4 @@ While the code here is 100% free, the Udemy course includes:
 Mike X Cohen (that's me :D )
 Neuroscientist, educator, and author of multiple books and courses on data science, machine learning, calculus, linear algebra, signal processing, and statistics
 
-
+https://www.udemy.com/course/dullms_x/?couponCode=202508
