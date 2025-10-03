@@ -10,3 +10,4 @@ scikit-learn
 scikit-image
 imageio
 transformers
+tiktoken
