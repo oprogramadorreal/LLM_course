@@ -9,5 +9,5 @@ torchsummary
 scikit-learn
 scikit-image
 imageio
-transformers
+transformers==4.27.4
 tiktoken
