@@ -38,7 +38,8 @@ REM Install other required packages from requirements.txt
 python -m pip install --upgrade --force-reinstall -r %~dp0\requirements.txt
 
 REM Install PyTorch with CUDA support.
-python -m pip install --force-reinstall torch torchvision --index-url https://download.pytorch.org/whl/cu126
+REM --no-deps flag prevents torch from overriding numpy version constraint (<2.0) required by gensim
+python -m pip install --force-reinstall --no-deps torch torchvision --index-url https://download.pytorch.org/whl/cu126
 
 IF ERRORLEVEL 1 (
     echo Failed to install required packages

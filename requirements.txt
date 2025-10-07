@@ -1,4 +1,4 @@
-numpy
+numpy<2.0,>=1.18.5
 matplotlib
 pandas
 matplotlib_inline
@@ -11,3 +11,4 @@ scikit-image
 imageio
 transformers==4.27.4
 tiktoken
+gensim
